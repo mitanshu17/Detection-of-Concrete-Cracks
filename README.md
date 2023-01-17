@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/xinzone/surface-crack
 # MOBILENET V2:  
 https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/5
 
-# ACCURACY ON VALIDATION SET: 98.5%!
+# ACCURACY ON VALIDATION SET: 98.5%
 # ACCURACY ON TEST SET: 97%
 
 
