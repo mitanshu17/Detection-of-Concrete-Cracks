@@ -1,15 +1,15 @@
-# Detection-of-Concrete-Cracks-
+# Detection-of-Concrete-Cracks
 
-#L&T EduTech Hackathon at SHAASTRA IITM
-#TEAM - DATA VAMPIRES
+# L&T EduTech Hackathon at SHAASTRA IITM
+# TEAM - DATA VAMPIRES
 USING TRANSFER LEARNING TO DETECT CONCRETE CRACKS BY DEPLYING MOBILENET V2 ARCHITECTURE ON THE GIVEN DATASET.
-#DATASET: 
+# DATASET: 
 https://www.kaggle.com/datasets/xinzone/surface-crack 
-#MOBILENET V2:  
+# MOBILENET V2:  
 https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/5
 
-#ACCURACY ON VALIDATION SET: 98.5%!
-#ACCURACY ON TEST SET: 97%
+# ACCURACY ON VALIDATION SET: 98.5%!
+# ACCURACY ON TEST SET: 97%
 
 
 
