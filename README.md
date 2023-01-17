@@ -9,6 +9,7 @@ MOBILENET V2:  https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classifica
 ACCURACY ON VALIDATION SET: 98.5%!
 ACCURACY ON TEST SET: 97%
 
-[Screenshot (576)](https://user-images.githubusercontent.com/118126264/212911384-57f05244-bc56-4c71-af88-e472137409bc.png)
 
+
+![Screenshot (576)](https://user-images.githubusercontent.com/118126264/212912421-40875194-811a-4e5b-be74-679aeeb267bc.png)
 
